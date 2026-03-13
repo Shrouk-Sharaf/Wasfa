@@ -2,14 +2,13 @@
 
 Wasfa is a comprehensive web application designed for organizing, managing, and discovering culinary recipes. The platform features a robust backend for handling user data and recipe logic, paired with a clean, responsive frontend for an intuitive user experience.
 
-## UI Walkthrough
+## 📱 UI Preview
 
 <div align="center">
-  <video width="100%" controls>
-    <source src="https://github.com/Shrouk-Sharaf/Wasfa/raw/main/assets/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="client/Images/ApplicationFrameHost_jhggLL89eN.png" alt="Wasfa UI Screenshot" width="100%">
 </div>
+
+---
 
 ## Project Architecture
 
