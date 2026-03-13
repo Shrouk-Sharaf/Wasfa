@@ -4,7 +4,12 @@ Wasfa is a comprehensive web application designed for organizing, managing, and 
 
 ## UI Walkthrough
 
-![Project Demo](https://github.com/Shrouk-Sharaf/Wasfa/raw/main/assets/demo.mp4)
+<div align="center">
+  <video width="100%" controls>
+    <source src="https://github.com/Shrouk-Sharaf/Wasfa/raw/main/assets/demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## Project Architecture
 
