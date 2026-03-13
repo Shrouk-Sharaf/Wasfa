@@ -33,13 +33,14 @@ pip install django
 python manage.py migrate
 # Start the server
 python manage.py runserver
+```
 
 ### 2. Frontend Setup (Client)
 Since the frontend is built with native web technologies, no installation is required. Simply open the entry point in your browser:
 
 ```text
 Open: client/HTML/index.html (or your main entry file)
-
+```
 ## Tech Stack
 
 ### **Frontend**
