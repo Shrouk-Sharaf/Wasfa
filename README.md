@@ -58,22 +58,23 @@ Open: client/HTML/index.html (or your main entry file)
     * **Recipes:** Handles core CRUD operations (Create, Read, Update, Delete) for the recipe database.
 
 ## Directory Structure
-Plaintext
-Wasfa-Project/
-├── client/              # Frontend assets
-│   ├── HTML/            # Web pages
-│   ├── CSS/             # Stylesheets
-│   ├── JS/              # Frontend logic
-|   ├── Images/          # UI assets and icons
-│   └── Team Images/     # Project contributor assets
-├── server/              # Django backend
-│   ├── wasfa_core/      # Project configuration
-│   ├── recipes/         # Recipe management app
-│   ├── users/           # User management app
-│   ├── manage.py        # Django CLI
-│   └── db.sqlite3       # Database file
-└── .gitignore           # Version control exclusions
-└── README.md            # Project documentation
+```
+    Wasfa-Project/
+    ├── client/              # Frontend assets
+    │   ├── HTML/            # Web pages
+    │   ├── CSS/             # Stylesheets
+    │   ├── JS/              # Frontend logic
+    |   ├── Images/          # UI assets and icons
+    │   └── Team Images/     # Project contributor assets
+    ├── server/              # Django backend
+    │   ├── wasfa_core/      # Project configuration
+    │   ├── recipes/         # Recipe management app
+    │   ├── users/           # User management app
+    │   ├── manage.py        # Django CLI
+    │   └── db.sqlite3       # Database file
+    └── .gitignore           # Version control exclusions
+    └── README.md            # Project documentation
+```
 
 ## Contributors
 
