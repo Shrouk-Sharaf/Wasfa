@@ -9,7 +9,6 @@ Wasfa is a comprehensive web application designed for organizing, managing, and 
     Your browser does not support the video tag.
   </video>
 </div>
----
 
 ## Project Architecture
 
