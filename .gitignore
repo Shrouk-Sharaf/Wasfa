@@ -1,0 +1,21 @@
+# --- Python/Django (Server) ---
+server/__pycache__/
+server/*.py[cod]
+server/*$py.class
+server/db.sqlite3
+server/media/
+server/staticfiles/
+server/env/
+server/venv/
+server/.env
+
+# --- Frontend (Client) ---
+client/node_modules/
+client/dist/
+client/.DS_Store
+.vscode/
+.idea/
+*.swp
+*.bak
+.DS_Store
+Thumbs.db
