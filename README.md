@@ -2,7 +2,7 @@
 
 Wasfa is a comprehensive web application designed for organizing, managing, and discovering culinary recipes. The platform features a robust backend for handling user data and recipe logic, paired with a clean, responsive frontend for an intuitive user experience.
 
-## 📱 UI Preview
+## UI Preview
 
 <div align="center">
   <img src="client/Images/ApplicationFrameHost_jhggLL89eN.png" alt="Wasfa UI Screenshot" width="100%">
